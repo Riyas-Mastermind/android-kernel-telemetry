@@ -47,4 +47,4 @@ The suite is optimized to execute a 4-phase experimental stress test:
 ---
 
 ## ⚖ License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. See the [LICENSE](LICENSE) file for more information.
