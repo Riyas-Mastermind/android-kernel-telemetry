@@ -41,7 +41,7 @@ The suite is containerized to ensure a stable environment regardless of the host
 ### 2. Build the Environment
 ```bash
 # Clone the repository
-git clone [https://github.com/Riyas-Mastermind/c7-telemetry-suite.git]
+git clone https://github.com/Riyas-Mastermind/c7-telemetry-suite.git
 cd c7-telemetry-suite
 
 # Build the Docker Image
